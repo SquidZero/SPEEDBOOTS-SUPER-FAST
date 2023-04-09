@@ -1,0 +1,3 @@
+displayName = SPEED BOOTS SUPER FAST
+author = Iklon
+version = 1.0

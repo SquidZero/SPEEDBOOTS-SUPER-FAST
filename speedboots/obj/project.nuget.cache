@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sFFqJBT2CgUNMB02z6yFgIKNTIoe5KuAp7Ojoqflr3btSr9Qxe97cSJw2DffM53zubKtvGkiE+3hPH1xlwV7qQ==",
+  "success": true,
+  "projectFilePath": "/home/francisco/.local/share/Terraria/tModLoader/ModSources/speedboots/speedboots.csproj",
+  "expectedPackageFiles": [
+    "/home/francisco/.nuget/packages/tmodloader.codeassist/0.1.5/tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
