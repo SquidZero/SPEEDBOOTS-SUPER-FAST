@@ -1,5 +1,5 @@
-# SPEEDBOOTS-SUPER-FAST
-a silly mod for terraria
+# SPEEDBOOTS SUPER FAST
+is a silly mod for terraria
 
 The speed boots mod adds boots that make you feel like you just drank gfuel with mtn dew from a mountain
 
